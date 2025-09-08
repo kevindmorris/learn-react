@@ -10,3 +10,5 @@ A curated set of beginner-friendly React projects to help you practice and learn
 - [Magic 8 Ball](https://github.com/kevindmorris/learn-react-magic-8-ball) - Ask a question to a Magic 8 Ball.
 - [User List](https://github.com/kevindmorris/learn-react-user-list) - Fetch a list of users and render the results.
 - [Form Validation](https://github.com/kevindmorris/learn-react-form-validation) - Validate a form with state and events.
+- [Country Population](https://github.com/kevindmorris/learn-react-country-population) - Build a bar chart to display country populations.
+
